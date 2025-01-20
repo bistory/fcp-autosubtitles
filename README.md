@@ -1,4 +1,4 @@
-# FCP Autosubtitles
+# FCP Autochapters
 Create chapters for YouTube from clips exported in XML from Final Cut Pro.
 
 
